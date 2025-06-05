@@ -1,0 +1,8 @@
+venv setup:
+
+at anaconda cmd
+cd C:\Users\Ravi\Desktop\ML\ML_first
+
+code .
+
+conda activate venv/
