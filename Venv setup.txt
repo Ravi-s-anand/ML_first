@@ -6,3 +6,19 @@ cd C:\Users\Ravi\Desktop\ML\ML_first
 code .
 
 conda activate venv/
+
+=====================================
+
+Add to github:
+
+git add .
+
+git commit -m "Data Ingestion"
+
+git status
+
+git push -u origin main (This will update the git from VS code)
+
+===============================
+to install any file
+pip install -r requirements.txt
